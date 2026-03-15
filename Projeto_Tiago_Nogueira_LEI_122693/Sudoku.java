@@ -13,8 +13,8 @@ public class Sudoku {
 	
 //1. Um objeto SudokuBoard com o estado atual do jogo;
 	
-//2. Uma imagem (ColorImage) que representa o “ecrã” do jogo, 
-//que vai sendo alterada à medida que são feitas as jogadas.	
+//2. Uma imagem (ColorImage) que representa o ï¿½ecrï¿½ do jogo, 
+//que vai sendo alterada ï¿½ medida que sï¿½o feitas as jogadas.	
 		
 	public Sudoku(String file, double difficulty) {
 		int[][] m =load(file);
@@ -100,7 +100,7 @@ public class Sudoku {
 	   
 	
 //3. Carregar um jogo fornecendo o nome do ficheiro previamente gravado
-//	(*.sudgame). 
+//	(*.sudgame). a
 	
 		public int[][] load(String sudFile) {
 
